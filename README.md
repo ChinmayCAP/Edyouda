@@ -1,5 +1,5 @@
 # Edyouda
-Edyoda Payment Landing Page (Dummy)
+Edyouda Payment Landing Page (Dummy)
 
 Steps to run on local server (vite)
 
